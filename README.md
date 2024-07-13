@@ -1,7 +1,9 @@
 # tp_final
 
 ## Requerimientos del Proyecto
+
 El proyecto deberá cumplir con los siguientes requerimientos mínimos:
+
 0. General
   * Utilizar ReactJS para el desarrollo de la aplicación web.
   * Consumir una API RESTful para obtener y manipular datos. La API puede ser proporcionada por la cátedra o ser propia/pública, siempre y cuando cumpla con ciertos requisitos mínimos. Si la API es propia, esta debe implementar autenticación mediante alguno de los mecanismos vistos en clase (por ejemplo, JWT, OAuth, Basic Auth, Session Auth, etc.).
